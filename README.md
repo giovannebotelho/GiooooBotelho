@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Giovanne Botelho
 
-## Aspiring Software Engineer | Mechanical Engineer | CAD Specialist |
+## Aspiring Software Engineer | Mechanical Engineer | CAD Specialist
 
 ### 👨‍💻 About Me
 
