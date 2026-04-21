@@ -39,10 +39,10 @@
 
 - 📧 **Email:** [giovannebotelho1@gmail.com](mailto:giovannebotelho1@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/giovanne-botelho](https://www.linkedin.com/in/giovanne-botelho)
-- 🐱 **GitHub:** [github.com/GiooooBotelho](https://github.com/GiooooBotelho)
+- 🐱 **GitHub:** [github.com/GiooooBotelho](https://github.com/giovannebotelho)
 
 I'm open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiooooBotelho&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannebotelho&show_icons=true&theme=radical">
 </p>
